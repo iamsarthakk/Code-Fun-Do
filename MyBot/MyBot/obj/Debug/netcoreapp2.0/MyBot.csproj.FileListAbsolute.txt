@@ -1,0 +1,11 @@
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.csprojResolveAssemblyReference.cache
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.csproj.CoreCompileInputs.cache
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.AssemblyInfoInputs.cache
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.AssemblyInfo.cs
+C:\Users\sarth\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.0\MyBot.deps.json
+C:\Users\sarth\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.0\MyBot.runtimeconfig.json
+C:\Users\sarth\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.0\MyBot.runtimeconfig.dev.json
+C:\Users\sarth\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.0\MyBot.dll
+C:\Users\sarth\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.0\MyBot.pdb
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.dll
+C:\Users\sarth\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.0\MyBot.pdb
